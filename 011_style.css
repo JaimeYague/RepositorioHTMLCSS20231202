@@ -1,5 +1,20 @@
-body {
-    background-color: green;
+/*body {
+    background-color: green; 
+}
+*/
+/* SELECCION POR TIPO O TAG */
+/* p {font-size: 50px;
+}
+*/
+
+/*  SELECCION POR CLASES */
+
+.table {
+    background-color: red;
 }
 
-/* comentarios aqui */
+.separator {
+    height: 4px;
+    width: 100%;
+    background-color: blue;
+}
