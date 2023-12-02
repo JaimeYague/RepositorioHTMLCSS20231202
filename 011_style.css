@@ -9,12 +9,14 @@
 
 /*  SELECCION POR CLASES */
 
-.table {
+/*.table {
     background-color: red;
-}
+} */
 
 .separator {
     height: 4px;
-    width: 100%;
+    width: 40%;
     background-color: blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
